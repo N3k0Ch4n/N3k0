@@ -5,7 +5,5 @@
 
 <samp>
   <h1>Things that I do:</h1>
-  <ul>
-    <li></li>
-  </ul>
+    <li style="list-style-type: none;">halo</li>
 </samp>
