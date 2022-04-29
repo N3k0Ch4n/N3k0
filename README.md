@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center">
+<p align="right">
   <samp>
     <h4>Things I do:</h4><br>
   </samp>
