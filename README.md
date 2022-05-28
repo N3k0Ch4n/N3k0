@@ -1,5 +1,5 @@
 <p align="center"><br>
-```sh
+```diff
 $ Fetch
 ```
 </p>
