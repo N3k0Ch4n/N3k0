@@ -6,7 +6,7 @@
 ~ / Fetch
 
 - He/him
-- 16
+- 16 years old
 - I use Penguin 
 - I eat rice
 ~ / 
