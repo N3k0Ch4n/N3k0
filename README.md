@@ -1,7 +1,5 @@
-
-<samp><h3>Hi, I'm Neko!</h3></samp>
-
 <img align='left' src="https://c.tenor.com/2IASsV3yHAQAAAAM/rem-rezero.gif">
+<samp><h3>Hi, I'm Neko!</h3></samp>
 
 ```sh
 ~ / biofetch
