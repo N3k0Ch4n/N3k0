@@ -2,7 +2,7 @@
 <samp><h3 align='center'>Hi, I'm Neko!</h3></samp>
 
 ```sh
-~ / boutme
+~ / aboutfetch
 
 - He/him
 - 16 years old
