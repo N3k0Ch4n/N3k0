@@ -1,6 +1,7 @@
-<p align="center"><br>
-```diff
-$ Fetch
+```sh
+~ / Fetch
+- He/him
+- I use Penguin
+- I eat rice
 ```
-</p>
 
