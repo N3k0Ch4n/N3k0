@@ -5,7 +5,8 @@
 ```sh
 ~ / Fetch
 
-- He/him        
+- He/him
+- 16
 - I use Penguin 
 - I eat rice
 ~ / 
