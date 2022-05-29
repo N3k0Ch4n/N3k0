@@ -7,7 +7,7 @@
 - He/him
 - 16 years old
 - live in Malaysia
-- I use Penguin 
+- I use Penguin (Arch to be exact)
 - I eat rice
 
 ~ / 
