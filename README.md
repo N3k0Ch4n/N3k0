@@ -6,9 +6,10 @@
 
 - He/him
 - 16 years old
-- live in Malaysia
+- live(ing) in Malaysia
 - I use Penguin (Arch to be exact)
 - I eat rice
+- Trying to stop wasting my time in front of screens
 
 ~ / 
 ```
