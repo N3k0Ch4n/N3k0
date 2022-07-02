@@ -13,3 +13,13 @@
 
 ~ / 
 ```
+
+<br>
+
+<details close>
+
+<summary><b>Profile Stats</b></summary>
+
+<img src="https://github-readme-stats.vercel.app/api?username=N3k0Ch4n&show_owner=true&theme=tokyonight">
+
+</details>
