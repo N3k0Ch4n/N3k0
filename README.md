@@ -9,7 +9,6 @@
 - live(ing) in Malaysia
 - I use Penguin (Arch to be exact)
 - I eat rice
-- Trying to stop wasting my time in front of screens
 
 ~ / 
 ```
