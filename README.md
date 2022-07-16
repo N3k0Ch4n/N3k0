@@ -1,5 +1,9 @@
 
+
+
 <samp><h3 align='left'>Hi, I'm Neko!</h3></samp>
+
+<img align='center' src='https://github.com/N3k0Ch4n/dotRice/blob/main/.github/hollow-knight-hornet.gif'>
 
 ```sh
 ~ / biofetch
