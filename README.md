@@ -11,8 +11,9 @@
 - He/him
 - 16 years old
 - live(ing) in Malaysia
-- I use Penguin (Arch to be exact)
+- I use Pingu (Arch to be exact)
 - I eat rice
+- A fellow silksong waiter
 
 ~ / 
 ```
