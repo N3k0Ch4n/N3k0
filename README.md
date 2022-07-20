@@ -13,7 +13,6 @@
 - live(ing) in Malaysia
 - I use Pingu (Arch to be exact)
 - I eat rice
-- A fellow silksong waiter
 
 ~ / 
 ```
