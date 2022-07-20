@@ -8,7 +8,7 @@
 </samp></p>
 
 <p><samp>
-  Quick bio:<br>
+  Bio:<br>
     - He/him<br>
     - 16 years old
 </samp></p>
