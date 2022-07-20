@@ -1,23 +1,17 @@
 
+<h3>Hi I'm Neko!</h3>
 
+<p><samp>
+  I'm currently learning lua.
+  <br>
+  I also like to make comfy "<a href="https://github.com/N3k0Ch4n/dotRice">rice</a>"
+</samp></p>
 
-<samp><h3 align='left'>Hi, I'm Neko!</h3></samp>
-
-<img align='center' src='https://github.com/N3k0Ch4n/dotRice/blob/main/.github/hollow-knight-hornet.gif'>
-
-```sh
-~ / biofetch
-
-- He/him
-- 16 years old
-- live(ing) in Malaysia
-- I use Pingu (Arch to be exact)
-- I eat rice
-
-~ / 
-```
-
-<br>
+<p><samp>
+  Quick bio:<br>
+    - He/him<br>
+    - 16 years old
+</samp></p>
 
 <details close>
 
