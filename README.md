@@ -4,7 +4,7 @@
 <p><samp>
   I'm currently learning lua.
   <br>
-  I also like to make comfy "<a href="https://github.com/N3k0Ch4n/dotRice">rice</a>"
+  I also like to make comfy "<a href="https://github.com/N3k0Ch4n/dotRice">rice</a>" for myself!
 </samp></p>
 
 <p><samp>
