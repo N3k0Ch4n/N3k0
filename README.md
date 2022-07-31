@@ -12,7 +12,7 @@
 <p><samp>
   Bio:<br>
     - He/him<br>
-    - 16 years old
+    - 16
 </samp></p>
 
 
