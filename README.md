@@ -7,7 +7,7 @@
   I also like to make comfy "<a href="https://github.com/N3k0Ch4n/dotRice">rice</a>" for myself!
 </samp></p>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=N3k0Ch4n&show_owner=true&theme=tokyonight">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rklyz&show_owner=true&theme=tokyonight">
 
 <p><samp>
   Bio:<br>
