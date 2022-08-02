@@ -1,13 +1,13 @@
 
 <h2>Hi I'm Rklyz!</h2>
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rklyz&show_owner=true&theme=city_lights">
+
 <p><samp>
   I'm currently learning lua.
   <br>
   I also like to make comfy "<a href="https://github.com/N3k0Ch4n/dotRice">rice</a>" for myself!
 </samp></p>
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=rklyz&show_owner=true&theme=tokyonight">
 
 <p><samp>
   Bio:<br>
