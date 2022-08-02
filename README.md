@@ -1,5 +1,5 @@
 
-<h2>Hi I'm Rklyz!</h2>
+<h2>Hi :wave: I'm Rklyz!</h2>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=rklyz&show_icons=true&theme=github_dark">
 
