@@ -1,7 +1,7 @@
 
 <h2>Hi I'm Rklyz!</h2>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=rklyz&show_owner=true&theme=city_lights">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rklyz&show_icons=true&theme=github_dark">
 
 <p><samp>
   I'm currently learning lua.
