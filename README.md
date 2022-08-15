@@ -4,9 +4,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=rklyz&show_icons=true&theme=github_dark">
 
 <p><samp>
-  I'm currently learning lua.
-  <br>
-  I also like to make comfy "<a href="https://github.com/N3k0Ch4n/dotRice">rice</a>" for myself!
+  A highschool student whose interested in programming and ricing.
 </samp></p>
 
 <p><samp>
