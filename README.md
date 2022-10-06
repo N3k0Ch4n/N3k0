@@ -1,8 +1,6 @@
 
 <h2>Hi :wave: I'm Rklyz!</h2>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=rklyz&show_icons=true&theme=github_dark">
-
 <p><samp>
   A highschool student who's interested in programming and ricing.
 </samp></p>
