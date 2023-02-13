@@ -2,7 +2,7 @@
 <h2>Hi :wave: I'm Rklyz!</h2>
 
 <p><samp>
-  A highschool student who's interested in programming and ricing.
+  A highschool student who's (not anymore) interested in programming and ricing.
 </samp></p>
 
 <p><samp>
